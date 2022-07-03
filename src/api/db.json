@@ -1,0 +1,14 @@
+{
+  "estudiantes": [
+    {
+      "id": 2,
+      "name": "Kaleb",
+      "university": "UG"
+    },
+    {
+      "name": "Terbicita",
+      "university": "UG",
+      "id": 1656102807798
+    }
+  ]
+}
